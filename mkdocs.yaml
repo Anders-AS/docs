@@ -2,7 +2,6 @@
  
 # Site
 site_name: Team Orange - Github Docs
-
 site_author: Anders
 site_dir: _site
 repo_url: https://github.com/Anders-AS/docs
@@ -24,7 +23,7 @@ nav:
 theme:
   name: material
   language: en
-  logo: material/book
+  logo: fontawesome/solid/book
  
   # Features
   features:
