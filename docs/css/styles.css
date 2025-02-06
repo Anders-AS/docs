@@ -2,12 +2,6 @@
   --md-typeset-a-color:#fcba03;
 }
 
-[data-md-color-scheme="slate"][data-md-color-primary="black"] {
-  --md-typeset-a-color:#fcba03;
-
-}
-
-
 .md-header__button.md-logo {
   margin-top: 0;
   margin-bottom: 0;
