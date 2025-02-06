@@ -8,6 +8,8 @@ repo_url: https://github.com/Anders-AS/docs
 repo_name: Anders-AS/docs
 docs_dir: docs
  
+copyright: Made by Team Orange
+
 # Plugins
 plugins:
   - mermaid2
@@ -42,21 +44,23 @@ theme:
  
   # Palette & Colours
   palette:
-    - media: "(prefers-color-scheme: dark)"
+    - media: "(prefers-color-scheme: light)"
       scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: black
+      accent: orange
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
       primary: black
       accent: orange
 
-    - media: "(prefers-color-scheme: light)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-      primary: black
-      accent: orange
+    -
  
   # Extensions
   markdown_extensions:
@@ -96,5 +100,5 @@ theme:
 
 # Extra
 extra_css:
-- stylesheets/styles.css
+- css/styles.css
  
