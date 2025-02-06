@@ -24,7 +24,7 @@ nav:
 theme:
   name: material
   language: en
-  logo: material/book-open-page-variant
+  logo: material/book
  
   # Features
   features:
