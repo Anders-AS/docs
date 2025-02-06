@@ -23,8 +23,7 @@ nav:
 theme:
   name: material
   language: en
-  icon: 
-    logo: assets/orange-logo.png
+  logo: assets/orange-logo.png
  
   # Features
   features:
