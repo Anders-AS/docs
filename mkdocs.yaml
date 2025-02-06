@@ -24,6 +24,8 @@ theme:
   name: material
   language: en
   logo: assets/orange-logo-fixed.png
+  icon:
+    repo: fontawesome/brands/github
  
   # Features
   features:
@@ -88,4 +90,8 @@ theme:
     - pymdownx.tasklist:
         custom_checkbox: true
     - pymdownx.tilde
+
+  # Extra
+  extra_css:
+  - style.css
  
