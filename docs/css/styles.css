@@ -1,16 +1,10 @@
-[data-md-color-scheme="slate"] {
-  --color-accent: #fcba03;
-  --color-dark: #fcba03;
-  --color-light: #fcba03;
-  --md-typeset-a-color:var(--color-dark);
-  --md-typeset-a-hl-color:var(--color-accent);
-  --md-typeset-a-color--light:var(--color-accent);
-  --md-typeset-a-hl-color--light:var(--color-dark);
-  --md-typeset-a-color--dark:var(--color-light);
-}
-
 :root {
   --md-typeset-a-color:#fcba03;
+}
+
+[data-md-color-scheme="slate"][data-md-color-primary="black"] {
+  --md-typeset-a-color:#fcba03;
+
 }
 
 
