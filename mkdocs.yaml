@@ -91,7 +91,7 @@ theme:
         custom_checkbox: true
     - pymdownx.tilde
 
-  # Extra
-  extra_css:
-  - stylesheets/logo.css
+# Extra
+extra_css:
+- stylesheets/logo.css
  
