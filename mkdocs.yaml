@@ -24,7 +24,7 @@ theme:
   name: material
   language: en
   icon: 
-    logo: material/book-open-variant
+    logo: assets/orange-logo.png
  
   # Features
   features:
@@ -45,13 +45,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: deep orange
+      primary: black
       accent: orange
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: deep orange
+      primary: black
       accent: orange
  
   # Extensions
