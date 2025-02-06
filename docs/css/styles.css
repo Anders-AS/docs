@@ -1,11 +1,12 @@
 :root > * {
-  --md-typeset-a-color:#FF6E42;
-  --md-accent-fg-color: #f25424;
+  --md-typeset-a-color:#FF7900;
+  --md-accent-fg-color: #964804;
 }
 
 /* To remove indigo default color for links */
 [data-md-color-scheme="slate"][data-md-color-primary="black"] {
-  --md-typeset-a-color:#fcba03;
+  --md-typeset-a-color:#FF7900;
+  --md-accent-fg-color: #af5405;
 }
 
 .md-header__button.md-logo {
