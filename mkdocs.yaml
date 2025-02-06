@@ -53,7 +53,7 @@ theme:
       accent: orange
 
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      scheme: customdark
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
