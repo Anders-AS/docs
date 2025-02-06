@@ -53,14 +53,12 @@ theme:
       accent: orange
 
     - media: "(prefers-color-scheme: dark)"
-      scheme: customdark
+      scheme: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
       primary: black
       accent: orange
-
-    -
  
   # Extensions
   markdown_extensions:
