@@ -23,7 +23,8 @@ nav:
 theme:
   name: material
   language: en
-  logo: fontawesome/solid/book
+  icon: 
+    logo: material/book-open-variant
  
   # Features
   features:
