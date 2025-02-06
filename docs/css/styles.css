@@ -1,3 +1,7 @@
+:root > * {
+  --md-typeset-a-color:#FF6E42;
+}
+
 /* To remove indigo default color for links */
 [data-md-color-scheme="slate"][data-md-color-primary="black"] {
   --md-typeset-a-color:#fcba03;
