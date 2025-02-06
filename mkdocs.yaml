@@ -18,11 +18,7 @@ plugins:
 nav:
   - Home: index.md
   - Guides:
-      - Workload Identity migration: workload-identity.md
       - Private DNS Zone migration guide: privatednszone-migration.md
-      - Setup of Github hosted Runners with vnet integration: vnet-integrated-runners.md
-  - Docs:
-      - Revenue Streams platform migration: revs-migration.md
  
 # Theme
 theme:
