@@ -50,7 +50,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
       primary: black
-      accent: orange
+      accent: deep orange
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
