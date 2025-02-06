@@ -23,7 +23,7 @@ nav:
 theme:
   name: material
   language: en
-  logo: assets/orange-logo-small.png
+  logo: assets/orange-logo-fixed.png
   icon:
     repo: fontawesome/brands/github
  
@@ -42,15 +42,18 @@ theme:
  
   # Palette & Colours
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to dark mode
       primary: black
       accent: orange
-    - scheme: slate
+      
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Switch to light mode
       primary: black
       accent: orange
