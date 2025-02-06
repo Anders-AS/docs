@@ -49,7 +49,7 @@ theme:
         name: Switch to dark mode
       primary: black
       accent: orange
-      
+
     - media: "(prefers-color-scheme: light)"
       scheme: slate
       toggle:
@@ -96,5 +96,5 @@ theme:
 
 # Extra
 extra_css:
-- stylesheets/logo.css
+- stylesheets/styles.css
  
