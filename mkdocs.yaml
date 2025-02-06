@@ -93,5 +93,5 @@ theme:
 
   # Extra
   extra_css:
-  - style.css
+  - stylesheets/logo.css
  
