@@ -1,6 +1,5 @@
-:root{
-  --color-accent: #FFA724;
-  --md-typeset-a-color--dark:var(--color-accent)
+[data-md-color-scheme="default"] {
+  --md-typeset-a-color:  #FFA724;
 }
 
 .md-header__button.md-logo {
@@ -8,10 +7,4 @@
   margin-bottom: 0;
   padding-top: 0;
   padding-bottom: 0;
-}
-
-.md-header__button.md-logo img,
-.md-header__button.md-logo svg {
-  height: 40%;
-  width: 40%;
 }
