@@ -23,7 +23,7 @@ nav:
 theme:
   name: material
   language: en
-  logo: assets/ay-logo-light-transparent.png
+  logo: assets/ay-horizontal-logo-light-transparent.png
   icon:
     repo: fontawesome/brands/github
   favicon: assets/favicon.svg
@@ -56,8 +56,8 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-      primary: black
-      accent: teal
+      primary: teal
+      accent: red
  
   # Extensions
   markdown_extensions:
