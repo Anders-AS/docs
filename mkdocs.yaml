@@ -18,13 +18,12 @@ plugins:
 # Navigation
 nav:
   - Home: index.md
-  - Guides:
  
 # Theme
 theme:
   name: material
   language: en
-  logo: assets/ay-logo-small.png
+  logo: assets/ay-logo-light-transparent.png
   icon:
     repo: fontawesome/brands/github
   favicon: assets/favicon.svg
